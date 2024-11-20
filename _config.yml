@@ -21,7 +21,7 @@ repository               : "zhixun25/JialingLiu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jialing_Liu.png"
+  avatar           : "profile.png"
   name             : "Jialing Liu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student at Zhejiang University of Technology"
