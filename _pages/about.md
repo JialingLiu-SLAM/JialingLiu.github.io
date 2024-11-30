@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,17 +8,37 @@ redirect_from:
 ---
 
 
-I am a sixth year PhD student at [Zhejiang University of Technology (ZJUT)](https://www.zjut.edu.cn/), supervised by [Prof. Shengyong Chen](https://scholar.google.com.hk/citations?user=6nSU254AAAAJ&hl=zh-CN) at ZJUT and [Prof. Jianhua Zhang](https://scholar.google.com.hk/citations?hl=zh-CN&user=JWVYDzAAAAAJ) at [Tianjin University of Technology (TUT)](https://www.tjut.edu.cn/). I received my B.S. in Software Engineering from [University of South China](https://www.usc.edu.cn/) in 2019.
+I am a sixth year PhD student at [Zhejiang University of Technology (ZJUT)](https://www.zjut.edu.cn/), supervised by [Prof. Shengyong Chen]([https://scholar.google.com.hk/citations?user=6nSU254AAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=6nSU254AAAAJ&hl=en)) at ZJUT and [Prof. Jianhua Zhang]([https://scholar.google.com.hk/citations?hl=zh-CN&user=JWVYDzAAAAAJ](https://scholar.google.com/citations?user=JWVYDzAAAAAJ&hl=en)) at [Tianjin University of Technology (TUT)](https://www.tjut.edu.cn/). I received my B.S. in Software Engineering from [University of South China](https://www.usc.edu.cn/) in 2019.
 
-I serve as a reviewer for prestigious conferences and journals such as RA-L, ICRA, IROS, SMC, CASE, and MEIE.
-
-
-
-A data-driven personal website
+Professional Services
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Reviewer: RA-L, ICRA, IROS, SMC, CASE, and MEIE.
+Teaching Assistant: The C Programming Language, from Sep. 2019 to Jan. 2020.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Education
+======
+1. Zhejiang University of Technology, Sep. 2019 - Expected Jun. 2025
+   Ph.D student in College of Computer Science and Technology
+   supervisor: [Shengyong Chen](https://scholar.google.com.hk/citations?user=6nSU254AAAAJ&hl=zh-CN) and [Jianhua Zhang](https://scholar.google.com.hk/citations?hl=zh-CN&user=JWVYDzAAAAAJ)
+3. University of South China, Sep. 2015 - Jun. 2019
+   B.E. in Software Engineering
+
+Research Experience
+======
+1. Human-Robot Interfaces and Interaction Lab, Nov. 2023 - Nov. 2024
+   visiting researcher in Italian Institute of Technology
+   supervisor: [Arash Ajoudani](https://scholar.google.com/citations?user=1hKOgRoAAAAJ&hl=en)
+3. Electronic and Computer Engineering, Nov. 2022 - May. 2023
+   student researcher in Hong Kong University of Science and Technology
+   supervisor: [Ming Liu](https://scholar.google.com/citations?hl=en&user=CdV5LfQAAAAJ)
+
+More Information
+======
+You can find my personal CV here: 
+
+Contact me
+======
+LiuJiaLing98@hotmail.com
 
 Getting started
 ======
