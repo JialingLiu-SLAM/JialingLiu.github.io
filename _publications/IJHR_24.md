@@ -1,4 +1,3 @@
-
 ---
 title: "[IJHR 2024] Accurate Perception and Association of Objects for Humanoid Robots under Dynamic Visual SLAM"
 author: 'K. Chen, **J. Liu**, Q. Tong, X. Cheng, J. Zhang'
