@@ -46,7 +46,7 @@ Research Experience
 
 More Information
 ======
-You can find my personal CV here: [download CV](/files/resume.pdf)
+You can find my personal CV here: [download CV](http://zhixun25.github.io/JialingLiu.github.io/files/resume.pdf)
 
 Contact me
 ======
