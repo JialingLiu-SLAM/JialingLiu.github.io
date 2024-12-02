@@ -7,6 +7,5 @@ paperurl: 'https://worldscientific.com/doi/abs/10.1142/S0219843623500196?af=R&sr
 date: 2023-09-01
 collection: publications
 category: manuscripts
-date: 
 venue: 
 ---
