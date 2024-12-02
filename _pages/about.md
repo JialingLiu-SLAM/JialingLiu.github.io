@@ -10,6 +10,10 @@ redirect_from:
 
 I am a sixth year PhD student at [Zhejiang University of Technology (ZJUT)](https://www.zjut.edu.cn/), supervised by [Prof. Shengyong Chen]([https://scholar.google.com.hk/citations?user=6nSU254AAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=6nSU254AAAAJ&hl=en)) at ZJUT and [Prof. Jianhua Zhang]([https://scholar.google.com.hk/citations?hl=zh-CN&user=JWVYDzAAAAAJ](https://scholar.google.com/citations?user=JWVYDzAAAAAJ&hl=en)) at [Tianjin University of Technology (TUT)](https://www.tjut.edu.cn/). I received my B.E. in Software Engineering from [University of South China](https://www.usc.edu.cn/) in 2019.
 
+Research Interests
+======
+Multi-agent collaborative SLAM, semantic perception and localization with large language models, multi-agent task allocation and trajectory planning.
+
 Professional Services
 ======
 Reviewer: RA-L, ICRA, IROS, SMC, CASE, and MEIE.
@@ -47,3 +51,4 @@ You can find my personal CV here: [download CV](/files/resume.pdf)
 Contact me
 ======
 LiuJiaLing98@hotmail.com
+
