@@ -9,29 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+Professional Services
+======
+Reviewer: RA-L, ICRA, IROS, SMC, CASE, and MEIE.
+
+Teaching Assistant: The C Programming Language, from Sep. 2019 to Jan. 2020.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+1. Zhejiang University of Technology, Sep. 2019 - Expected Jun. 2025
 
-Work experience
+   Ph.D student in College of Computer Science and Technology
+
+   supervisor: [Shengyong Chen](https://scholar.google.com.hk/citations?user=6nSU254AAAAJ&hl=zh-CN) and [Jianhua Zhang](https://scholar.google.com.hk/citations?hl=zh-CN&user=JWVYDzAAAAAJ)
+3. University of South China, Sep. 2015 - Jun. 2019
+
+   B.E. in Software Engineering
+
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+1. Human-Robot Interfaces and Interaction Lab, Nov. 2023 - Nov. 2024
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+   visiting researcher in Italian Institute of Technology
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+   supervisor: [Arash Ajoudani](https://scholar.google.com/citations?user=1hKOgRoAAAAJ&hl=en)
+3. Electronic and Computer Engineering, Nov. 2022 - May. 2023
+
+   student researcher in Hong Kong University of Science and Technology
+
+   supervisor: [Ming Liu](https://scholar.google.com/citations?hl=en&user=CdV5LfQAAAAJ)
+
+More Information
+======
+You can find my personal CV here: [download CV](/files/resume.pdf)
+
+Contact me
+======
+LiuJiaLing98@hotmail.com
+
+ % comment %}
 Skills
 ======
 * Skill 1
@@ -40,25 +56,12 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+  
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+{% endcomment %}
+
