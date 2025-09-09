@@ -1,0 +1,13 @@
+---
+title: "[Optoelectronics Letters 2025] A dynamic detection method to improve SLAM performance"
+author: 'Y. Gan, J. Zhang, K. Chen, **J. Liu**'
+permalink: /publication/Optoelectronics_Letters_2021
+excerpt: 'Simultaneous localization and mapping (SLAM) technology is a research hotspot in the field of intelligent mobile robot, and many researchers have developed many classic systems in the past few decades. However, most of the existing SLAM methods assume that the environment of the robot is static, which results in the performance of the system being greatly reduced in the dynamic environment. To solve this problem, a new dynamic object detection method based on point cloud motion analysis is proposed and incorporated into ORB-SLAM2. First, the method is regarded as a preprocessing stage, detecting moving objects in the scene, and then removing the moving objects to enhance the performance of the SLAM system. Experiments performed on a public RGB-D dataset show that the motion cancellation method proposed in this paper can effectively improve the performance of ORB-SLAM2 in a highly dynamic environment.'
+paperurl: 'https://link.springer.com/article/10.1007/s11801-021-1022-5'
+date: 2021-12-03
+collection: publications
+category: manuscripts
+venue: 
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
