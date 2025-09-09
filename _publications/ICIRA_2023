@@ -1,0 +1,13 @@
+---
+title: "[ICIRA 2023] Large-Parallax Multi-camera Calibration Method for Indoor Wide-Baseline Scenes"
+author: 'D. Wang, **J. Liu**, X. Xu, Y. Chen, Q. Hu, J. Zhang'
+permalink: /publication/ICIRA_2023
+excerpt: 'Multi-camera calibration plays a crucial role in enabling efficient vision-based human-robot interaction and applications. This paper introduces a novel approach for multi-camera calibration, specifically tailored for indoor wide-baseline scenes, by leveraging 3D models. The task of multi-camera calibration in such scenarios is particularly challenging due to significant variations in camera perspectives. The limited and distant common view area of multiple cameras further exacerbates the difficulty in performing feature point matching. Traditional multi-camera calibration methods rely on matching 2D feature points, such as structure-from-motion, or employing large-area common view calibration plates, as seen in stereo camera calibration. In contrast, our proposed method eliminates the need for calibration boards or feature point pairs. Instead, we calibrate the external parameters of the multi-camera system by computing the optimal vanishing point through the extraction of orthogonal parallel lines within each camera’s view. This approach begins by extracting orthogonal parallel lines from the image to establish an accurate indoor 3D model. Furthermore, we incorporate the easily obtainable camera height as a prior, enhancing the estimation of the transformation matrix among the cameras. Extensive experiments were conducted in both real and simulated environments to evaluate the performance of our method. The experimental results validate the superiority of our approach over manual marker-based structure-from-motion methods, establishing its effectiveness in multi-camera calibration.'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-981-99-6486-4_3'
+date: 2023-10-10
+collection: publications
+category: manuscripts
+venue: 
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
