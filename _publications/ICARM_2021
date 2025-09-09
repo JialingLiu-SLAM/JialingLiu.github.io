@@ -1,0 +1,13 @@
+---
+title: "[ICARM 2021] Global localization for single 3D point cloud using voting mechanism"
+author: 'Y. Jin, Q. Chen, J. Qian, **J. Liu**, J. Zhang'
+permalink: /publication/ICARM_2021
+excerpt: 'Global localization on a given map is a vital problem for robot navigation tasks. Segments-based methods most rely on the dense point clouds, and do not work well when points are sparse. It needs robots to walk a certain distance to accumulate point clouds for segments, which is not safe for robots in an unknown environment. To solve this problem, we propose a novel global localization method which only needs the first single LiDAR scan at the initial stage when the robot starts. The first single LiDAR scan is treated as a query point cloud, the extracted descriptors of this query point cloud is compared with the prior Map’s descriptors in the database which are stored in a KD tree, and the most similar frame is selected for registration. In particular, we create a voting mechanism, a two-phase search strategy for place recognition, which reduces the query time. We evaluate our method on KITTI and MVSEC datasets.'
+paperurl: 'https://ieeexplore.ieee.org/iel7/9536048/9536049/09536101.pdf'
+date: 2021-07-03
+collection: publications
+category: manuscripts
+venue: 
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
