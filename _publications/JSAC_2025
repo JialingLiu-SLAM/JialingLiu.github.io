@@ -1,13 +1,13 @@
 ---
-title: "[JSAC 2025] Alice-SLAM: Accurate and Lite-Communication Collaborative SLAM for Resource-Constrained Multi-Agent"
+title: "[JSAC 2025 Accepted] Alice-SLAM: Accurate and Lite-Communication Collaborative SLAM for Resource-Constrained Multi-Agent"
 author: '**J. Liu**, K. Chen, R. Liu, X. Cheng, J. Zhang, S. Chen, H. Zhang, A. Ajoudani'
 permalink: /publication/JSAC_2025
 excerpt: 'Multi-agent collaborative simultaneous localization and mapping (Mac-SLAM) facilitates mutual localization among multi-agent and mapping in unknown environments. However, Mac-SLAM faces two main practical challenges in resource-constrained situations: heavy communication load and conflicts among multi-source maps. To address these issues, we propose Alice-SLAM: an accurate and lite-communication client-server collaborative SLAM system, reducing communication load while accuracy-guaranteed. Specifically, regarding high communication demand, we optimize communication load by compressing keyframe data and sharing only key map information instead of full map information. For inconsistency among multi-maps, we combine specific bundle adjustments (BA) and an adaptive strategy for active map optimization to enhance the consistency of the global map. A set of experiments demonstrates the superior accuracy and reduced communication load of the proposed Alice-SLAM on the EuRoC dataset and in multi-user augmented reality (AR) experiments conducted in our lab, highlighting its effectiveness in resource-constrained cases. We plan to open-source our code to encourage further research and collaboration in this area.'
 paperurl: 'https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3211734/JSAC__Alice_SLAM__Accurate_and_Lite_Communication_Collaborative_SLAM_for_Resource_Constrained_Multi_Agent.pdf?sequence=1'
-date: 2025
+date: 2025-06-03
 collection: publications
 category: manuscripts
-venue: 
+code: 'https://github.com/JialingLiu-SLAM/Alice-SLAM'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
