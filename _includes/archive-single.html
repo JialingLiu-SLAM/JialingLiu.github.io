@@ -75,6 +75,20 @@
       <p><a href="{{ post.slidesurl }}"> Slides</a></p>
     {% endif %}
 
+    {% if post.code %}
+      <p><a href=" {{ post.code }} "> Code</a></p>
+    {% endif %}
+
+    {% if post.video1 and post.video2 %}
+    <p>
+      <a href="{{ post.video1 }}">Video 1</a>
+      <a href="{{ post.video2 }}">Video 2</a>
+    </p>
+    {% elsif post.video1 %}
+      <p><a href="{{ post.video1 }}">Video</a></p>
+    {% elsif post.video2 %}
+      <p><a href="{{ post.video2 }}">Video</a></p>
+    {% endif %}
     
   </article>
 </div>
