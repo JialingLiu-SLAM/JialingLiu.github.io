@@ -3,7 +3,7 @@ title: "[TITS 2025 Accepted] Covariance Propagation-based Accurate Loop Detectio
 author: '**J. Liu**, K. Chen, R. Liu, S. Chen, A. Ajoudani, J. Zhang'
 permalink: /publication/TITS_2025
 excerpt: 'Robust loop detection is crucial for correcting accumulated errors in agent self-localization and mapping, which are indispensable for long-term, large-scale tasks. Traditional loop detection methods, primarily relying on appearance similarity and geometric consistency of local features, often struggle to distinguish true loops in visually similar artificial environments. To address this challenge, we propose a novel trajectory-based spatial verification approach, utilizing covariance propagation of odometry and loop estimation, to effectively reduce false positives in loop detection due to visual ambiguities. We further develop a comprehensive loop detection framework that seamlessly integrates appearance similarity, geometric consistency, and the proposed trajectory-based spatial similarity, extending its applicability to both single-agent and multi-agent scenarios. Additionally, we introduce covariance-based pose graph optimization to fully utilize the reliability of relative transformation between loop keyframes. Experimental results demonstrate that our method improves loop detection accuracy by 25.50\% on average and reduces absolute trajectory error by 0.408 meters, demonstrating its effectiveness in highly confusing environments.'
-paperurl: ''
+paperurl: 
 date: 2025-08-19
 collection: publications
 category: manuscripts
