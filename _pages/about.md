@@ -44,10 +44,11 @@ Research Experience
 
    supervisor: [Ming Liu](https://scholar.google.com/citations?hl=en&user=CdV5LfQAAAAJ)
 
+<!--
 More Information
 ======
-You can find my personal CV here: [download CV](http://zhixun25.github.io/JialingLiu.github.io/files/resume.pdf)
-
+You can find my personal CV here: [download CV](http://JialingLiu-SLAM.github.io/JialingLiu.github.io/files/resume.pdf)
+-->
 Contact me
 ======
 LiuJiaLing98@hotmail.com
