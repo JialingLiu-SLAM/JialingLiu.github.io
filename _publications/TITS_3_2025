@@ -1,0 +1,13 @@
+---
+title: "[TITS 2025] Semantic Visual Simultaneous Localization and Mapping: A Survey"
+author: 'K. Chen, J. Xiao, **J. Liu**, Q. Tong, H. Zhang, R. Liu, J. Zhang, A. Ajoudani, S. Chen'
+permalink: /publication/TITS_3_2025
+excerpt: 'Visual Simultaneous Localization and Mapping (vSLAM) has achieved great progress in the computer vision and robotics communities, and has been successfully used in many f ields such as autonomous robot navigation and AR/VR. However, vSLAMcannot achieve good localization in dynamic and complex environments. Numerous publications have reported that, by combining with the semantic information with vSLAM, the semantic vSLAM systems have the capability of solving the above problems in recent years. Nevertheless, there is no comprehensive survey about semantic vSLAM. To fill the gap, this paper first reviews the development of semantic vSLAM, explicitly focusing on its strengths and differences. Secondly, we explore three main issues of semantic vSLAM: the extraction and association of semantic information, the application of semantic information, and the advantages of semantic vSLAM. Then, we collect and analyze the current state-of-the-art SLAM datasets which have been widely used in semantic vSLAM systems. Finally, we discuss future directions that will provide a blueprint for the future development of semantic vSLAM.'
+paperurl: 'https://arxiv.org/pdf/2209.06428'
+date: 2025-03-12
+collection: publications
+category: manuscripts
+venue: 
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
