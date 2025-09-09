@@ -1,0 +1,13 @@
+---
+title: "[Optoelectronics Letters 2025] NeOR: neural exploration with feature-based visual odometry and tracking-failure-reduction policy"
+author: 'Z. Zhu, **J. Liu**, K. Chen, Q. Tong, R. Liu'
+permalink: /publication/Optoelectronics_Letters_2025
+excerpt: 'Embodied visual exploration is critical for building intelligent visual agents. This paper presents the neural exploration with feature-based visual odometry and tracking-failure-reduction policy (NeOR), a framework for embodied visual exploration that possesses the efficient exploration capabilities of deep reinforcement learning (DRL)-based exploration policies and leverages feature-based visual odometry (VO) for more accurate mapping and positioning results. An improved local policy is also proposed to reduce tracking failures of feature-based VO in weakly textured scenes through a refined multi-discrete action space, keyframe fusion, and an auxiliary task. The experimental results demonstrate that NeOR has better mapping and positioning accuracy compared to other entirely learning-based exploration frameworks and improves the robustness of feature-based VO by significantly reducing tracking failures in weakly textured scenes.'
+paperurl: 'https://link.springer.com/article/10.1007/s11801-025-4034-8'
+date: 2025-04-03
+collection: publications
+category: manuscripts
+venue: 
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
