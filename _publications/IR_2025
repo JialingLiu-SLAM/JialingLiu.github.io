@@ -1,0 +1,17 @@
+---
+title: "[Industrial Robot 2025] Cross-Viewpoint Robust Object Association and Mapping for Semantic Scene Understanding"
+author: 'K. Chen, **J. Liu**, Q. Tong, J. Zhang, S. Chen, A. Ajoudani'
+permalink: /publication/IR_2025
+excerpt: '**Purpose** – Semantic Simultaneous Localization and Mapping (SLAM) plays a key role in robotic navigation within complex environments. While semantic objects can improve map readability and localization accuracy, challenges remain, such as viewpoint changes and occlusions that can reduce mapping accuracy and system reliability. To this end, this paper introduces a comprehensive semantic RGB-D SLAM system for enhancing association and mapping.
+**Design/methodology/approach** – The proposed system incorporates a multi-constraint object association mechanism that integrates semantic and geometric information to achieve robust object association across viewpoints. To further improve accuracy, we introduce an outlier detection method that refines object scale and pose estimation. Moreover, a semantic fusion approach based on cluster analysis is employed to robustly associate and fuse objects across different perspectives, ensuring a consistent and accurate mapping.
+**Findings** – The proposed method is thoroughly evaluated on the real indoor sequences, the TUM dataset, and simulated outdoor sequences. Experimental results demonstrate that our system significantly improves association accuracy and mapping robustness.
+**Originality/value** – This paper proposes a novel semantic visual SLAM system that enhances localization accuracy and mapping robustness in complex environments. The system combines a multi-constraint object association module, a local outlier factor-based outlier removal module, and an object fusion module. These modules work together to improve object association across viewpoints, filter out outliers, and ensure consistent mapping through object fusion.
+**Keywords** Semantic visual SLAM, Object association, Different viewpoints, Mapping.'
+paperurl: 'https://www.emerald.com/ir/article-abstract/doi/10.1108/IR-11-2024-0521/1256505/Cross-viewpoint-robust-object-association-and?redirectedFrom=fulltext'
+date: 2025-02-14
+collection: publications
+category: manuscripts
+venue: 
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
