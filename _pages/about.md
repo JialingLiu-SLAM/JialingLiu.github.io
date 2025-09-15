@@ -13,7 +13,9 @@ In 2025, I received my Ph.D in  at College of Computer Science and Technology fr
 Research Interests
 ======
 Robot perception: Sensor fusion, probabilistic state estimation, object perception and obstacle avoidance.
+
 3D reconstruction: Real-time dense mapping, point cloud processing, and large-scale 3D scene modeling.
+
 Multi-agent system: Multi-agent collaborative SLAM, semantic mapping and task planning.
 
 Professional Services
