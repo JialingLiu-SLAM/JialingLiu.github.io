@@ -12,7 +12,9 @@ In 2025, I received my Ph.D in  at College of Computer Science and Technology fr
 
 Research Interests
 ======
-Multi-agent collaborative SLAM, semantic SLAM, robot perception, 3d reconstruction.
+Robot perception: Sensor fusion, probabilistic state estimation, object perception and obstacle avoidance.
+3D reconstruction: Real-time dense mapping, point cloud processing, and large-scale 3D scene modeling.
+Multi-agent system: Multi-agent collaborative SLAM, semantic mapping and task planning.
 
 Professional Services
 ======
@@ -31,7 +33,7 @@ Education
 
    B.E. in Software Engineering
 
-Research Experience
+Visiting Experience
 ======
 1. Human-Robot Interfaces and Interaction Lab, Nov. 2023 - Nov. 2024
 
@@ -49,6 +51,7 @@ More Information
 ======
 You can find my personal CV here: [download CV](http://JialingLiu-SLAM.github.io/JialingLiu.github.io/files/resume.pdf)
 -->
+
 Contact me
 ======
 LiuJiaLing98@hotmail.com
